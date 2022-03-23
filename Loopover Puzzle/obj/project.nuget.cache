@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spvjpKgk7VZZ0IAKeecXJnyHEAIXz9r25peyHibq3gYDPdkeaHzcHLpzQqscuIP8zcLY7C4bFiND/jCdDYPfdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nexus\\Workspace\\Loopover Puzzle\\Loopover Puzzle\\Loopover Puzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nexus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
